@@ -97,8 +97,8 @@ This analysis helps:
 ## 📸 Dashboard Preview
 Power BI dashboard screenshots: 
 📸 Dashboard Preview
+![Tamil Nadu Road Analysis Project](https://github.com/user-attachments/assets/65d4a348-f150-4d45-b909-a66beccef5a8)
 
-![Tamil Nadu Road Accident Dashboard](./images/dashboard.png)
 
 > 📌 *Replace the image path with your actual file path (example: `images/powerbi_dashboard.png`)*
 
