@@ -8,6 +8,7 @@
    5. [Skills Demonstrated](#skills-demonstrated)
    6. [Insights and Findings](#insights--findings)
    7. [Future Enhancements](#future-enhancements)
+   8. [Dashboards Previews](#dashboard-previews)
 
 
 ## Project Overview
@@ -29,8 +30,7 @@ The objective is to extract actionable insights on accident trends, severity, de
 3. **Data Visualization & Reporting** – Power BI
 
 ### Data Source
- Microsoft Excel
- ### Dataset Detail:
+ ##### Dataset Detail: Microsoft Excel
    ##### Tamil Nadu Road Accident Dataset – 2023
   - Key Columns:
   - District
