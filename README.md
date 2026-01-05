@@ -26,8 +26,9 @@ The objective is to extract meaningful insights related to accident trends, seve
 3. **Data Visualization & Reporting** – Power BI
 
 ### Data Source
-- Microsoft Excel
- Dataset Detai- Tamil Nadu Road Accident Dataset – 2023
+ Microsoft Excel
+ ### Dataset Detail:
+   ##### Tamil Nadu Road Accident Dataset – 2023
   - Key Columns:
   - District
   - Month
@@ -84,7 +85,7 @@ The objective is to extract meaningful insights related to accident trends, seve
 - KPI & Trend Analysis
 - Business Insight Generation
 
-##Insights and Findings
+## Insights and Findings
 - Road accidents in Tamil Nadu during 2023 resulted in significant injuries and fatalities, indicating a strong need for data-driven road safety measures.
 - Accidents are concentrated in a few high-risk districts, mainly in urban and high-traffic regions.
 - National and State Highways contribute to a higher share of severe and fatal accidents, while urban roads show higher accident frequency.
