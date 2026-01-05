@@ -1,6 +1,9 @@
 # Tamil Nadu Road Accident Analysis - Power BI
 
 ## Table of Content
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Data Workflow](#data-workflow)
 
 ## Project Overview
 This project presents an **end-to-end data analytics solution** for analyzing **Tamil Nadu road accident data (2023)** using **Excel, SQL, and Power BI**.  
@@ -90,8 +93,11 @@ This analysis helps:
 ## Dashboard Preview
 Power BI dashboard screenshots: 
 Overall Dashboard Preview
-![Tamil Nadu Road Analysis Project](https://github.com/user-attachments/assets/65d4a348-f150-4d45-b909-a66beccef5a8)        
+![Tamil Nadu Road Analysis Project](https://github.com/user-attachments/assets/65d4a348-f150-4d45-b909-a66beccef5a8) 
+
+
 Selecting Chennai - NH Road
+
 <img width="1428" height="809" alt="screenshot-1767614458532" src="https://github.com/user-attachments/assets/4e0877da-473f-460f-9013-eb073097dac2" />
 
 
