@@ -73,32 +73,28 @@ The objective is to extract meaningful insights related to accident trends, seve
 - Exploratory Data Analysis (EDA)
 - KPI & Trend Analysis
 - Business Insight Generation
-
----
-
-## 
-## 💼 Business Use Case
+ 
+## Business Use Case
 This analysis helps:
 - 🚦 Traffic departments identify **accident-prone zones**
 - 🏛 Government agencies improve **road safety policies**
 - 🏗 Urban planners enhance **road infrastructure**
 - 🧾 Insurance companies analyze **risk patterns**
 
----
-
-## 🚀 Future Enhancements
+## Future Enhancements
 - Advanced SQL queries using **CTEs & Window Functions**
 - Predictive analysis using **Python**
 - Real-time data integration
 - Year-over-year comparison dashboard
 
----
-
-## 📸 Dashboard Preview
+## Dashboard Preview
 Power BI dashboard screenshots: 
-📸 Dashboard Preview
-![Tamil Nadu Road Analysis Project](https://github.com/user-attachments/assets/65d4a348-f150-4d45-b909-a66beccef5a8)
+Overall Dashboard Preview
+![Tamil Nadu Road Analysis Project](https://github.com/user-attachments/assets/65d4a348-f150-4d45-b909-a66beccef5a8)        
+Selecting Chennai - NH Road
+<img width="1428" height="809" alt="screenshot-1767614458532" src="https://github.com/user-attachments/assets/4e0877da-473f-460f-9013-eb073097dac2" />
 
 
-> 📌 *Replace the image path with your actual file path (example: `images/powerbi_dashboard.png`)*
+
+
 
