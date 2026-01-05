@@ -4,7 +4,8 @@
 - [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
 - [Data Workflow](#data-workflow)
-
+- [SQL Analysis Performed](#sql-analysis-performed)
+- [Key Metrics Analyzed](#key-Metrics-analyzed)
 ## Project Overview
 This project presents an **end-to-end data analytics solution** for analyzing **Tamil Nadu road accident data (2023)** using **Excel, SQL, and Power BI**.  
 The objective is to extract meaningful insights related to accident trends, severity, demographics, and locations to support **road safety planning and decision-making**.
@@ -23,24 +24,40 @@ The objective is to extract meaningful insights related to accident trends, seve
 1. **Data Collection & Cleaning** – Excel  
 2. **Data Analysis & Querying** – SQL  
 3. **Data Visualization & Reporting** – Power BI
+
+### Data Source
+- Microsoft Excel
+ Dataset Detai- Tamil Nadu Road Accident Dataset – 2023
+  - Key Columns:
+  - District
+  - Month
+  - Age
+  - Gender
+  - Road Type
+  - Vehicle Type
+  - Accident Severity
+  - Injuries
+  - Fatalities
+
+### Data Analysis
+- SQL (MySQL / PostgreSQL / SQL Server)
    
-## SQL Analysis Performed
-- Data filtering using `WHERE`, `BETWEEN`, `IN`
-- Aggregations using `COUNT()`, `SUM()`, `AVG()`
-- Grouping using `GROUP BY`
-- Sorting using `ORDER BY`
-- Trend analysis using **date and month-based queries**
+## EDA
 
-## Key Metrics Analyzed
-- **Total Accidents**
-- **Total Injuries**
-- **Total Fatalities**
-- **Total Persons Involved**
-- **Accidents by District**
-- **Accidents by Road Type**
-- **Severity by Vehicle Type**
-- **Monthly Accident Trends**
+1. What are the total number of road accidents, injuries, and fatalities recorded in Tamil Nadu in 2023?
+2. Which districts report the highest number of road accidents?
+3. How are road accidents distributed across different road types?
+4. Which road type records the highest number of fatalities?
+5. Which vehicle type is involved in the highest number of accidents?
+6. Which vehicle types contribute most to injuries and fatalities?
+7. Which age group is most frequently involved in road accidents?
+8. What is the distribution of road accidents by gender?
+9. How do road accidents vary month by month throughout the year?
+10. Which districts show a higher fatality rate despite fewer accidents?
 
+### Data Visualization
+- Power BI
+  
 ## Power BI Dashboard Features
 - KPI cards for quick summary
 - Interactive slicers for:
@@ -51,38 +68,31 @@ The objective is to extract meaningful insights related to accident trends, seve
 - Bar, donut, and area charts
 - Dark-themed professional dashboard design
 
-## Data Source
-- Microsoft Excel
-📂 Dataset Detai- Tamil Nadu Road Accident Dataset – 2023
-- Key Columns:
-  - District
-  - Month
-  - Age
-  - Gender
-  - Road Type
-  - Vehicle Type
-  - Accident Severity
-  - Injuries
-  - Fatalities
-    
-### Data Analysis
-- SQL (MySQL / PostgreSQL / SQL Server)
-
-### Data Visualization
-- Power BI
+## Key Metrics Analyzed
+- Total Accidents
+- Total Injuries
+- Total Fatalities
+- Total Persons Involved
+- Accidents by District
+- Accidents by Road Type
+- Severity by Vehicle Type
+- Monthly Accident Trends
 
 ### Skills
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
 - KPI & Trend Analysis
 - Business Insight Generation
- 
-## Business Use Case
-This analysis helps:
-- 🚦 Traffic departments identify **accident-prone zones**
-- 🏛 Government agencies improve **road safety policies**
-- 🏗 Urban planners enhance **road infrastructure**
-- 🧾 Insurance companies analyze **risk patterns**
+
+##Insights and Findings
+- Road accidents in Tamil Nadu during 2023 resulted in significant injuries and fatalities, indicating a strong need for data-driven road safety measures.
+- Accidents are concentrated in a few high-risk districts, mainly in urban and high-traffic regions.
+- National and State Highways contribute to a higher share of severe and fatal accidents, while urban roads show higher accident frequency.
+- Two-wheelers are the most affected vehicle category, making riders the most vulnerable road users.
+- Heavy vehicles (trucks and lorries) show higher fatality severity per accident.
+- The 21–40 age group and male drivers/riders are involved in the majority of accidents.
+- Accident counts show monthly and seasonal variation, with spikes during monsoon and high-travel periods.
+- Some districts with fewer accidents show higher fatality rates, indicating gaps in emergency response and infrastructure.
 
 ## Future Enhancements
 - Advanced SQL queries using **CTEs & Window Functions**
