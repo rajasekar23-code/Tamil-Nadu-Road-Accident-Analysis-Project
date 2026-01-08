@@ -20,7 +20,7 @@ The objective is to extract actionable insights on accident trends, severity, de
 2. **Data Analysis & Querying** – SQL  
 3. **Data Visualization & Reporting** – Power BI
 
-### Data Source
+## Data Source
  ##### Dataset Detail: Microsoft Excel
    ##### Tamil Nadu Road Accident Dataset – 2023
   - Key Columns:
@@ -34,7 +34,7 @@ The objective is to extract actionable insights on accident trends, severity, de
   - Injuries
   - Fatalities
 
-### Data Analysis
+## Data Analysis
 - SQL (MySQL / PostgreSQL / SQL Server)
    
 ## Exploratory Data Analysis - EDA
@@ -71,7 +71,7 @@ The objective is to extract actionable insights on accident trends, severity, de
 - Severity by Vehicle Type
 - Monthly Accident Trends
 
-- ### Skills Demonstrated
+## Skills Demonstrated
 - **Data Preparation**: Cleaning & structuring datasets in Excel  
 - **Analysis**: SQL querying, KPI & trend analysis  
 - **Visualization**: Power BI dashboards with interactive features  
