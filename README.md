@@ -16,14 +16,6 @@ This project presents an **end-to-end data analytics solution** for analyzing **
 The objective is to extract actionable insights on accident trends, severity, demographics, and locations to support evidence-based road safety planning and decision-making.
 **Excel** was used as the **data source**, **SQL** for **data querying and analysis**, and **Power BI** for building an **interactive dashboard**.
 
-## Project Objectives
-- Analyze total accidents, injuries, fatalities, and persons involved
-- Identify **high-risk districts and road types**
-- Analyze accident severity by **vehicle type**
-- Study the impact of **age and gender**
-- Identify **monthly accident trends**
-- Build an interactive **Power BI dashboard** for insights
-  
 ## Data Workflow
 1. **Data Collection & Cleaning** – Excel  
 2. **Data Analysis & Querying** – SQL  
