@@ -1,4 +1,4 @@
-# Tamil Nadu Road Accident Analysis - Power BI
+# 🚦Tamil Nadu Road Accident Analysis - Power BI
 
 ## Table of Content
    1. [Project Overview](#project-overview)
@@ -9,7 +9,6 @@
    6. [Insights and Findings](#insights--findings)
    7. [Future Enhancements](#future-enhancements)
    8. [Dashboards Previews](#dashboard-previews)
-
 
 ## Project Overview
 This project presents an **end-to-end data analytics solution** for analyzing **Tamil Nadu road accident data (2023)** using **Excel, SQL, and Power BI**.  
